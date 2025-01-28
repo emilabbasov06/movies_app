@@ -14,7 +14,7 @@ A React-based Movies App where you can search for movies using the [TMDB API](ht
 
 ## Demo 🌐
 
-[Live Demo](#https://google.com)
+[Live Demo](#) ()
 
 ---
 
